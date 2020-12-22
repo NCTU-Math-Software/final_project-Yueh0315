@@ -45,6 +45,7 @@ for k = 2:days-2
         R_1(k) = NaN;
     end    
 end
+R_1(days-1) = R_0(days-1);
 plot(d,R_1,'bx')
 hold on
 for k = 1:days-1
