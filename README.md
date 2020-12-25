@@ -17,9 +17,9 @@
 縱軸為 $R_0$ ；橫軸1代表2020/1/28，2代表2020/1/29，以此類推325代表2020/12/17。
 
 ```
-US arrange R0 = 4.7646
-FR arrange R0 = 6.3078
-JP arrange R0 = 2.9091
-TW arrange R0 = 2.7236
+US average R0 = 4.7646
+FR average R0 = 6.3078
+JP average R0 = 2.9091
+TW average R0 = 2.7236
 ```
 更多詳細的介紹請點上面Report的連結! 
